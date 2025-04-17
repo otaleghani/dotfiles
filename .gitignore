@@ -1,0 +1,26 @@
+# Ignores everything
+chromium/
+go/
+libreoffice/
+pulse/
+dconf/
+gtk-3.0/
+rclone/
+
+# Includes the following
+!.gitignore
+!ghostty/
+!hypr/
+!htop/
+!kitty/
+!lazygit/
+!mako/
+!neofetch/
+!rofi/
+!tmux/
+!waybar/
+!wezterm/
+!zsh/
+!dolphinrc
+!starship.toml
+!README.md
