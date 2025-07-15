@@ -44,4 +44,5 @@
 
 theme = catppuccin-mocha
 shell-integration = zsh
-command = /usr/bin/zsh
+command = zsh
+font-family = "Iosevka Term Nerd Font"
