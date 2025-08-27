@@ -5,7 +5,3 @@
 ``` zsh
 echo 'export ZDOTDIR=$HOME/.config/zsh' >> ~/.zshenv
 ``` 
-
-## To do
-- Create init script 
-```
